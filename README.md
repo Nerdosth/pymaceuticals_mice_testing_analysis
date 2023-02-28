@@ -2,7 +2,7 @@
 
 ###### Summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
 
-![1677617963945](image/README/1677617963945.png)
+![stat table](Pymaceuticals/images/stattable.png)
 
 ---
 
