@@ -25,33 +25,33 @@ The testing was tested mostly even between male and female mice with a slight sk
 ###### Determine tumor size outliers for the following drug types: Capomulin, Ramicane, Infubinol, Ceftamin
 
 **Results for Capomulin**:
-The lower quartile of tumor volume is: 32.38
-The upper quartile of tumor volume is: 40.16
-The interquartile range of tumor volume is: 7.78
-The median of tumor volume is: 38.13
-There are no potential outliers in the data.
-
+The lower quartile of tumor volume is: 32.38<br>
+The upper quartile of tumor volume is: 40.16<br>
+The interquartile range of tumor volume is: 7.78<br>
+The median of tumor volume is: 38.13<br>
+There are no potential outliers in the data.<br>
+<br>
 **Results for Ramicane**:
-The lower quartile of tumor volume is: 31.56
-The upper quartile of tumor volume is: 40.66
-The interquartile range of tumor volume is: 9.10
-The median of tumor volume is: 36.56
-There are no potential outliers in the data.
-
+The lower quartile of tumor volume is: 31.56<br>
+The upper quartile of tumor volume is: 40.66<br>
+The interquartile range of tumor volume is: 9.10<br>
+The median of tumor volume is: 36.56<br>
+There are no potential outliers in the data.<br>
+<br>
 **Results for Infubinol**:
-The lower quartile of tumor volume is: 54.05
-The upper quartile of tumor volume is: 65.53
-The interquartile range of tumor volume is: 11.48
-The median of tumor volume is: 60.17
-Mouse ID c326 has an outlier tumor volume of 36.32
-
+The lower quartile of tumor volume is: 54.05<br>
+The upper quartile of tumor volume is: 65.53<br>
+The interquartile range of tumor volume is: 11.48<br>
+The median of tumor volume is: 60.17<br>
+Mouse ID c326 has an outlier tumor volume of 36.32<br>
+<br>
 **Results for Ceftamin**:
-The lower quartile of tumor volume is: 48.72
-The upper quartile of tumor volume is: 64.30
-The interquartile range of tumor volume is: 15.58
-The median of tumor volume is: 59.85
-There are no potential outliers in the data.
-
+The lower quartile of tumor volume is: 48.72<br>
+The upper quartile of tumor volume is: 64.30<br>
+The interquartile range of tumor volume is: 15.58<br>
+The median of tumor volume is: 59.85<br>
+There are no potential outliers in the data.<br>
+<br>
 ![box chart](Pymaceuticals/images/final_tumor_boxplot.png)
 
 Infubinol has one outlier on Mouse c326 with a final tumor size of 36.32 mm3
