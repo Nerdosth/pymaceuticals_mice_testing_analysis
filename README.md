@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# This project is a bootcamp challenge using matplotlib
 
 ###### Summary statistics table of mean, median, variance, standard deviation, and SEM of the tumor volume for each regimen
 
